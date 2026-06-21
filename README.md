@@ -1,7 +1,7 @@
 # Salut, moi c'est Laura ! 👋
 
 ### Qui suis-je ?
-Je suis étudiante en première année de master spécialisé **ING2-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** 🎓 et actuellement **Data Scientist** en alternance chez **@AlphawaveFR** 📌. 
+Je suis étudiante en première année de master spécialisé **ING2-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** et actuellement **Data Scientist** en alternance chez **@AlphawaveFR**. 
 
 Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux architectures **RAG**.
 
@@ -15,14 +15,14 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 *   🎓 **Études (@efrei) :** J'approfondis mes compétences en Big Data, architectures distribuées et techniques avancées de Deep Learning. Les technologies qui m'ont le plus marquée cette année :
     *   **Data & Orchestration :** *PySpark* (analyse de données à grande échelle), *Airflow* (orchestration de pipelines de données), et *Kafka* (streaming de données / NoSQL).
-    *   **Performance & Outils Modernes :** Le combo ultra-rapide *Polars* + *UV* ⚡.
-    *   **DevOps & Cloud Local :** *LocalStack* (pour simuler des buckets S3 en local et en open-source) et *GitHub Actions* (automatisation du contrôle des commits et des Pull Requests).
+    *   **Performance & Outils Modernes :** Le combo interpréteur et librairie ultra-rapide *Polars* + *UV*.
+    *   **DevOps & Cloud Local :** *LocalStack* (pour simuler des buckets S3 en local et en open-source) et *GitHub Actions* (automatisation du contrôle des commits et des PR).
 
 ---
 
 ## Mes Technologies & Outils (Data & Dev)
 
-*   **Data Science & IA :** Python, Java, Scikit-Learn, Hugging Face, Streamlit, Sentence-Transformers, Prompt Engineering
+*   **Data Science & IA :** Python, Java, Scikit-Learn, Hugging Face, Streamlit, Sentence-Transformers
 *   **Big Data & Bases de données :** SQL, NoSQL (MongoDB, Neo4J, Redis, Kafka), Spark, PySpark, Scala, Airflow, Polars
 *   **Dev & Ops :** Git, GitHub, GitHub Actions, Docker, Linux, SonarCloud, LocalStack, UV
 
