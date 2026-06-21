@@ -13,7 +13,7 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
     *   **Automatisation & NLP :** Création de modèles ML et Deep Learning pour automatiser la lecture des fichiers dès leur intégration sur la plateforme. J'ai notamment utilisé *Sentence-Transformers* pour de la recherche d'associations sémantiques et *Random Forest* pour la classification des données en catégories métiers standardisées.
     *   **LLM & RAG :** En ce moment, je réalise des tests sur un LLM pour analyser son interprétation du contenu de fichiers CSV (ce qui m'a permis de comprendre l'importance d'un prompt précis et structuré), dans l'optique de l'intégrer au chatbot de notre site internet.
 
-*   🎓 **Études (@efrei) :** J'approfondis mes compétences en Big Data, architectures distribuées et techniques avancées de Deep Learning. Les technologies qui m'ont le plus marquée cette année :
+*   🎓 **Études (@efrei PARIS) :** J'approfondis mes compétences en Big Data, architectures distribuées et techniques avancées de Deep Learning. Les technologies qui m'ont le plus marquée cette année :
     *   **Data & Orchestration :** *PySpark* (analyse de données à grande échelle), *Airflow* (orchestration de pipelines de données), et *Kafka* (streaming de données / NoSQL)
     *   **Performance & Outils Modernes :** Le combo interpréteur et librairie ultra-rapide *Polars* + *UV*
     *   **DevOps & Cloud Local :** *LocalStack* (pour simuler des buckets S3 en local et en open-source) et *GitHub Actions* (automatisation du contrôle des commits et des PR)
