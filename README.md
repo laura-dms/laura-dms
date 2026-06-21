@@ -20,7 +20,7 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 ---
 
-## Mes Technologies & Outils (Data & Dev)
+## Mes Technologies & Outils
 
 *   **Data Science & IA :** Python, Java, Scikit-Learn, Hugging Face, Streamlit, Sentence-Transformers
 *   **Big Data & Bases de données :** SQL, NoSQL (MongoDB, Neo4J, Redis, Kafka), Spark, PySpark, Scala, Airflow, Polars
