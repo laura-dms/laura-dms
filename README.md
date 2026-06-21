@@ -1,13 +1,13 @@
 # Salut, moi c'est Laura ! 👋
 
-### 💻 Qui suis-je ?
+### Qui suis-je ?
 Je suis étudiante en première année de master spécialisé **ING2-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** 🎓 et actuellement **Data Scientist** en alternance chez **@AlphawaveFR** 📌. 
 
 Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux architectures **RAG**.
 
 ---
 
-## 🛠️ Ce que je fais actuellement
+## Ce que je fais actuellement
 
 *   💼 **Alternance (@AlphawaveFR) :** En tant que Data Scientist, mes missions s'articulent autour de deux grands axes :
     *   **Automatisation & NLP :** Création de modèles ML et Deep Learning pour automatiser la lecture des fichiers dès leur intégration sur la plateforme. J'ai notamment utilisé *Sentence-Transformers* pour de la recherche d'associations sémantiques et *Random Forest* pour la classification des données en catégories métiers standardisées.
@@ -20,7 +20,7 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 ---
 
-## 🧰 Mes Technologies & Outils (Data & Dev)
+## Mes Technologies & Outils (Data & Dev)
 
 *   **Data Science & IA :** Python, Java, Scikit-Learn, Hugging Face, Streamlit, Sentence-Transformers, Prompt Engineering
 *   **Big Data & Bases de données :** SQL, NoSQL (MongoDB, Neo4J, Redis, Kafka), Spark, PySpark, Scala, Airflow, Polars
@@ -28,7 +28,7 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 ---
 
-## 🏃‍♀️ Mes à-côtés (pour relâcher la pression)
+## Mes à-côtés (pour relâcher la pression)
 
 *   🏃‍♂️ **Course à pied :** Je prépare actuellement un semi-marathon pour septembre 2026 !
 *   🏊‍♀️ **Natation**
