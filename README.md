@@ -1,9 +1,9 @@
 # Salut, moi c'est Laura ! 👋
 
 ### Qui suis-je ?
-Je suis étudiante en première année de master spécialisé **ING2-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** et actuellement **Data Scientist** en alternance chez **@AlphawaveFR**. 
+Je suis étudiante en première année de master spécialisé **ING3-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** et actuellement **Data Scientist** en alternance chez **@AlphawaveFR**. 
 
-Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux architectures **RAG**.
+Je m'intéresse particulièrement au **Machine Learning** et aux architectures **RAG**. 
 
 ---
 
@@ -11,12 +11,15 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 *   💼 **Alternance (@AlphawaveFR) :** En tant que Data Scientist, mes missions s'articulent autour de deux grands axes :
     *   **Automatisation & NLP :** Création de modèles ML et Deep Learning pour automatiser la lecture des fichiers dès leur intégration sur la plateforme. J'ai notamment utilisé *Sentence-Transformers* pour de la recherche d'associations sémantiques et *Random Forest* pour la classification des données en catégories métiers standardisées.
-    *   **LLM & RAG :** En ce moment, je réalise des tests sur un LLM pour analyser son interprétation du contenu de fichiers CSV (ce qui m'a permis de comprendre l'importance d'un prompt précis et structuré), dans l'optique de l'intégrer au chatbot de notre site internet.
+    *   **LLM & RAG :** En ce moment, je travaille sur l'analyse des mails du support pour étudier le taux de résolution des demandes des clients (analyse augmentée par IA avec contexte, dashboard Streamlit pour présenter les résultats)
 
-*   🎓 **Études (@efrei PARIS) :** J'approfondis mes compétences en Big Data, architectures distribuées et techniques avancées de Deep Learning. Les technologies qui m'ont le plus marquée cette année :
+*   🎓 **Études (@efrei PARIS) :** J'approfondis mes compétences en Big Data, architectures distribuées et techniques avancées de Deep Learning. Les technologies qui m'ont le plus marquée l'année dernière:
     *   **Data & Orchestration :** *PySpark* (analyse de données à grande échelle), *Airflow* (orchestration de pipelines de données), et *Kafka* (streaming de données / NoSQL)
     *   **Performance & Outils Modernes :** Le combo interpréteur et librairie ultra-rapide *Polars* + *UV*
     *   **DevOps & Cloud Local :** *LocalStack* (pour simuler des buckets S3 en local et en open-source) et *GitHub Actions* (automatisation du contrôle des commits et des PR)
+
+*  💻 **Side project :** Depuis la rentrée 2026, je me suis lancée à la découverte de la plateforme Databricks. J'étudie l'architecture de la plateforme, les différentes services proposés. Je mets en application mes nouvelles connaissances avec un projet dans l'environnement Databricks. Le but est d'avoir une interface surlaquelle le sinistré rentre les informations de son dossier d'accident de voiture; l'application détecte si le dossier est une fraude ou non afin de réduire les fraudes à l'assurance.
+   * Technologies et outils : PySpark, Lakeflow Pipeline, Databrick App, Streamlit, Delta Tables, ML
 
 ---
 
@@ -30,7 +33,7 @@ Je m'intéresse particulièrement au **Machine Learning**, au **NLP** et aux arc
 
 ## Mes à-côtés (pour relâcher la pression)
 
-*   🏃‍♂️ **Course à pied :** Je prépare actuellement un semi-marathon pour septembre 2026 !
+*   🏃‍♂️ **Course à pied :**
 *   🏊‍♀️ **Natation**
 *   🚴‍♀️ **Vélo**
 
