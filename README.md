@@ -18,8 +18,8 @@ Je m'intéresse particulièrement au **Machine Learning** et aux architectures *
     *   **Performance & Outils Modernes :** Le combo interpréteur et librairie ultra-rapide *Polars* + *UV*
     *   **DevOps & Cloud Local :** *LocalStack* (pour simuler des buckets S3 en local et en open-source) et *GitHub Actions* (automatisation du contrôle des commits et des PR)
 
-*  💻 **Side project :** Depuis la rentrée 2026, je me suis lancée à la découverte de la plateforme Databricks. J'étudie l'architecture de la plateforme, les différentes services proposés. Je mets en application mes nouvelles connaissances avec un projet dans l'environnement Databricks. Le but est d'avoir une interface surlaquelle le sinistré rentre les informations de son dossier d'accident de voiture; l'application détecte si le dossier est une fraude ou non afin de réduire les fraudes à l'assurance.
-   * Technologies et outils : PySpark, Lakeflow Pipeline, Databrick App, Streamlit, Delta Tables, ML
+*  💻 **Side project :** Depuis la rentrée 2026, je me suis lancée à la découverte de la plateforme Databricks. J'étudie l'architecture de la plateforme, les différentes services proposés. Je mets en application mes nouvelles connaissances avec un projet dans l'environnement Databricks.       * **Objectif du projet** : Avoir une interface sur laquelle le sinistré rentre les informations de son dossier dans le cas d'un accident de voiture; l'application détecte si le dossier est une fraude ou non afin de réduire les fraudes à l'assurance.
+   * **Technologies et outils** : PySpark, Lakeflow Pipeline, Databrick App, Streamlit, Delta Tables, ML
 
 ---
 
