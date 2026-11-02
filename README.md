@@ -1,9 +1,9 @@
 # Salut, moi c'est Laura ! 👋
 
 ### Qui suis-je ?
-Je suis étudiante en première année de master spécialisé **ING3-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** et actuellement **Data Scientist** en alternance chez **@AlphawaveFR**. 
+Je suis étudiante en deuxième année de master spécialisé **ING3-APP-BDML** (Big Data & Machine Learning) à l'**@efrei Paris** et actuellement **Data Scientist** en alternance chez **@AlphawaveFR**. 
 
-Je m'intéresse particulièrement au **Machine Learning** et aux architectures **RAG**. 
+Je m'intéresse particulièrement au **Machine Learning** et aux architectures **RAG** pour comprendre les bases de l'IA.
 
 ---
 
