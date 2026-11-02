@@ -34,7 +34,7 @@ Je m'intéresse particulièrement au **Machine Learning** et aux architectures *
 
 ## Mes à-côtés (pour relâcher la pression)
 
-*   🏃‍♂️ **Course à pied :**
+*   🏃‍♂️ **Course à pied**
 *   🏊‍♀️ **Natation**
 *   🚴‍♀️ **Vélo**
 
