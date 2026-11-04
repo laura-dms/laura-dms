@@ -26,9 +26,9 @@ Je m'intéresse particulièrement au **Machine Learning** et aux architectures *
 
 ## Mes Technologies & Outils
 
-*   **Data Science & IA :** Python, Java, Scikit-Learn, Hugging Face, Streamlit, Sentence-Transformers
-*   **Big Data & Bases de données :** SQL, NoSQL (MongoDB, Neo4J, Redis, Kafka), Spark, PySpark, Scala, Airflow, Polars
-*   **Dev & Ops :** Git, GitHub, GitHub Actions, Docker, Linux, SonarCloud, LocalStack, UV
+*   **Data Science & IA :** Python, Java, Scikit-Learn, Streamlit, Sentence-Transformers
+*   **Big Data & Bases de données :** SQL, NoSQL (MongoDB, Neo4J, Redis, Kafka), PySpark, Scala, Airflow, Databricks
+*   **Dev & Ops :** Git, GitHub, Docker, AWS
 
 ---
 
